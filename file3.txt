@@ -1,1 +1,2 @@
-"some text for file 3" 
+"some text for file 3"
+im going to commit so that there will be another line here.
